@@ -5,5 +5,5 @@
 # INSTALLATIONS
 
 $ cd SCANNING-WP-BRUTE-FORCE
-$ git clone
+$ git clone https://github.com/yosmods/SCANNING-WP-BRUTE-FORCE.git
 $ python WpCrack.py
